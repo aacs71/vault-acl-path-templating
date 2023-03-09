@@ -1,4 +1,4 @@
-# Bootstrapping Vault with terraform
+# Bootstrapping Vault and ACL Policy Path Templating with terraform
 
 Just an experiment how to bootstrap a vault via terraform
 
