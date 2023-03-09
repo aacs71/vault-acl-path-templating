@@ -1,5 +1,8 @@
+**/vault-db
 **/*.pem
 **/*.der
 **/*.csr
 **/*.ext
 **/*.json
+**/.terraform*
+**/terraform.tfvars
